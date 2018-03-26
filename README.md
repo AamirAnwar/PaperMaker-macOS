@@ -1,2 +1,2 @@
 # PaperMaker-macOS
-First macOS App!
+First macOS App! (in progress)
